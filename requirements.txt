@@ -5,3 +5,6 @@ scikit-learn
 matplotlib
 seaborn
 jupyter
+streamlit
+tensorflow
+keras

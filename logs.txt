@@ -1,0 +1,1112 @@
+core           INFO 	Loading data for Bahrain Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '11', '55', '16', '63', '4', '44', '81', '14', '18', '24', '20', '3', '22', '23', '27', '31', '10', '77', '2']
+core           INFO 	Loading data for Bahrain Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '16', '63', '55', '11', '14', '4', '81', '44', '27', '22', '18', '23', '3', '20', '77', '24', '2', '31', '10']
+core           INFO 	Loading data for Saudi Arabian Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 1 not found in race results for Bahrain Grand Prix.
+Driver 11 not found in race results for Bahrain Grand Prix.
+Driver 55 not found in race results for Bahrain Grand Prix.
+Driver 16 not found in race results for Bahrain Grand Prix.
+Driver 63 not found in race results for Bahrain Grand Prix.
+Driver 4 not found in race results for Bahrain Grand Prix.
+Driver 44 not found in race results for Bahrain Grand Prix.
+Driver 81 not found in race results for Bahrain Grand Prix.
+Driver 14 not found in race results for Bahrain Grand Prix.
+Driver 18 not found in race results for Bahrain Grand Prix.
+Driver 24 not found in race results for Bahrain Grand Prix.
+Driver 20 not found in race results for Bahrain Grand Prix.
+Driver 3 not found in race results for Bahrain Grand Prix.
+Driver 22 not found in race results for Bahrain Grand Prix.
+Driver 23 not found in race results for Bahrain Grand Prix.
+Driver 27 not found in race results for Bahrain Grand Prix.
+Driver 31 not found in race results for Bahrain Grand Prix.
+Driver 10 not found in race results for Bahrain Grand Prix.
+Driver 77 not found in race results for Bahrain Grand Prix.
+Driver 2 not found in race results for Bahrain Grand Prix.
+Skipping 2024 round 1 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '11', '16', '81', '14', '63', '38', '4', '44', '27', '23', '20', '31', '2', '22', '3', '77', '24', '18', '10']
+core           INFO 	Loading data for Saudi Arabian Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '16', '11', '14', '81', '4', '63', '44', '22', '18', '38', '23', '20', '3', '27', '77', '31', '10', '2', '24']
+core           INFO 	Loading data for Australian Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 1 not found in race results for Saudi Arabian Grand Prix.
+Driver 11 not found in race results for Saudi Arabian Grand Prix.
+Driver 16 not found in race results for Saudi Arabian Grand Prix.
+Driver 81 not found in race results for Saudi Arabian Grand Prix.
+Driver 14 not found in race results for Saudi Arabian Grand Prix.
+Driver 63 not found in race results for Saudi Arabian Grand Prix.
+Driver 38 not found in race results for Saudi Arabian Grand Prix.
+Driver 4 not found in race results for Saudi Arabian Grand Prix.
+Driver 44 not found in race results for Saudi Arabian Grand Prix.
+Driver 27 not found in race results for Saudi Arabian Grand Prix.
+Driver 23 not found in race results for Saudi Arabian Grand Prix.
+Driver 20 not found in race results for Saudi Arabian Grand Prix.
+Driver 31 not found in race results for Saudi Arabian Grand Prix.
+Driver 2 not found in race results for Saudi Arabian Grand Prix.
+Driver 22 not found in race results for Saudi Arabian Grand Prix.
+Driver 3 not found in race results for Saudi Arabian Grand Prix.
+Driver 77 not found in race results for Saudi Arabian Grand Prix.
+Driver 24 not found in race results for Saudi Arabian Grand Prix.
+Driver 18 not found in race results for Saudi Arabian Grand Prix.
+Driver 10 not found in race results for Saudi Arabian Grand Prix.
+Skipping 2024 round 2 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 19 drivers: ['55', '16', '4', '81', '11', '18', '22', '14', '27', '20', '23', '3', '10', '77', '24', '31', '63', '44', '1']
+core           INFO 	Loading data for Australian Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 19 drivers: ['1', '55', '11', '4', '16', '81', '63', '22', '18', '14', '44', '23', '77', '20', '31', '27', '10', '3', '24']
+core           INFO 	Loading data for Japanese Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 55 not found in race results for Australian Grand Prix.
+Driver 16 not found in race results for Australian Grand Prix.
+Driver 4 not found in race results for Australian Grand Prix.
+Driver 81 not found in race results for Australian Grand Prix.
+Driver 11 not found in race results for Australian Grand Prix.
+Driver 18 not found in race results for Australian Grand Prix.
+Driver 22 not found in race results for Australian Grand Prix.
+Driver 14 not found in race results for Australian Grand Prix.
+Driver 27 not found in race results for Australian Grand Prix.
+Driver 20 not found in race results for Australian Grand Prix.
+Driver 23 not found in race results for Australian Grand Prix.
+Driver 3 not found in race results for Australian Grand Prix.
+Driver 10 not found in race results for Australian Grand Prix.
+Driver 77 not found in race results for Australian Grand Prix.
+Driver 24 not found in race results for Australian Grand Prix.
+Driver 31 not found in race results for Australian Grand Prix.
+Driver 63 not found in race results for Australian Grand Prix.
+Driver 44 not found in race results for Australian Grand Prix.
+Driver 1 not found in race results for Australian Grand Prix.
+Skipping 2024 round 3 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '11', '55', '16', '4', '14', '63', '81', '44', '22', '27', '18', '20', '77', '31', '10', '2', '24', '3', '23']
+core           INFO 	Loading data for Japanese Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '11', '4', '55', '14', '81', '44', '16', '63', '22', '3', '27', '77', '23', '31', '18', '10', '20', '2', '24']
+core           INFO 	Loading data for Chinese Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 1 not found in race results for Japanese Grand Prix.
+Driver 11 not found in race results for Japanese Grand Prix.
+Driver 55 not found in race results for Japanese Grand Prix.
+Driver 16 not found in race results for Japanese Grand Prix.
+Driver 4 not found in race results for Japanese Grand Prix.
+Driver 14 not found in race results for Japanese Grand Prix.
+Driver 63 not found in race results for Japanese Grand Prix.
+Driver 81 not found in race results for Japanese Grand Prix.
+Driver 44 not found in race results for Japanese Grand Prix.
+Driver 22 not found in race results for Japanese Grand Prix.
+Driver 27 not found in race results for Japanese Grand Prix.
+Driver 18 not found in race results for Japanese Grand Prix.
+Driver 20 not found in race results for Japanese Grand Prix.
+Driver 77 not found in race results for Japanese Grand Prix.
+Driver 31 not found in race results for Japanese Grand Prix.
+Driver 10 not found in race results for Japanese Grand Prix.
+Driver 2 not found in race results for Japanese Grand Prix.
+Driver 24 not found in race results for Japanese Grand Prix.
+Driver 3 not found in race results for Japanese Grand Prix.
+Driver 23 not found in race results for Japanese Grand Prix.
+Skipping 2024 round 4 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '4', '11', '16', '55', '63', '14', '81', '44', '27', '31', '23', '10', '24', '18', '20', '2', '3', '22', '77']
+core           INFO 	Loading data for Chinese Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '11', '14', '4', '81', '16', '55', '63', '27', '77', '18', '3', '31', '23', '10', '24', '20', '44', '22', '2']
+core           INFO 	Loading data for Miami Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 1 not found in race results for Chinese Grand Prix.
+Driver 4 not found in race results for Chinese Grand Prix.
+Driver 11 not found in race results for Chinese Grand Prix.
+Driver 16 not found in race results for Chinese Grand Prix.
+Driver 55 not found in race results for Chinese Grand Prix.
+Driver 63 not found in race results for Chinese Grand Prix.
+Driver 14 not found in race results for Chinese Grand Prix.
+Driver 81 not found in race results for Chinese Grand Prix.
+Driver 44 not found in race results for Chinese Grand Prix.
+Driver 27 not found in race results for Chinese Grand Prix.
+Driver 31 not found in race results for Chinese Grand Prix.
+Driver 23 not found in race results for Chinese Grand Prix.
+Driver 10 not found in race results for Chinese Grand Prix.
+Driver 24 not found in race results for Chinese Grand Prix.
+Driver 18 not found in race results for Chinese Grand Prix.
+Driver 20 not found in race results for Chinese Grand Prix.
+Driver 2 not found in race results for Chinese Grand Prix.
+Driver 3 not found in race results for Chinese Grand Prix.
+Driver 22 not found in race results for Chinese Grand Prix.
+Driver 77 not found in race results for Chinese Grand Prix.
+Skipping 2024 round 5 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['4', '1', '16', '11', '55', '44', '22', '63', '14', '31', '27', '10', '81', '24', '3', '77', '18', '23', '20', '2']
+core           INFO 	Loading data for Miami Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '16', '55', '11', '4', '81', '63', '44', '27', '22', '18', '10', '31', '23', '14', '77', '2', '3', '20', '24']
+core           INFO 	Loading data for Emilia Romagna Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 4 not found in race results for Miami Grand Prix.
+Driver 1 not found in race results for Miami Grand Prix.
+Driver 16 not found in race results for Miami Grand Prix.
+Driver 11 not found in race results for Miami Grand Prix.
+Driver 55 not found in race results for Miami Grand Prix.
+Driver 44 not found in race results for Miami Grand Prix.
+Driver 22 not found in race results for Miami Grand Prix.
+Driver 63 not found in race results for Miami Grand Prix.
+Driver 14 not found in race results for Miami Grand Prix.
+Driver 31 not found in race results for Miami Grand Prix.
+Driver 27 not found in race results for Miami Grand Prix.
+Driver 10 not found in race results for Miami Grand Prix.
+Driver 81 not found in race results for Miami Grand Prix.
+Driver 24 not found in race results for Miami Grand Prix.
+Driver 3 not found in race results for Miami Grand Prix.
+Driver 77 not found in race results for Miami Grand Prix.
+Driver 18 not found in race results for Miami Grand Prix.
+Driver 23 not found in race results for Miami Grand Prix.
+Driver 20 not found in race results for Miami Grand Prix.
+Driver 2 not found in race results for Miami Grand Prix.
+Skipping 2024 round 6 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '4', '16', '81', '55', '44', '63', '11', '18', '22', '27', '20', '3', '31', '24', '10', '2', '77', '14', '23']
+core           INFO 	Loading data for Emilia Romagna Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+core        WARNING 	Driver  2: Lap timing integrity check failed for 1 lap(s)
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '81', '4', '16', '55', '63', '22', '44', '3', '27', '11', '31', '18', '23', '10', '77', '24', '20', '14', '2']
+core           INFO 	Loading data for Monaco Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 1 not found in race results for Emilia Romagna Grand Prix.
+Driver 4 not found in race results for Emilia Romagna Grand Prix.
+Driver 16 not found in race results for Emilia Romagna Grand Prix.
+Driver 81 not found in race results for Emilia Romagna Grand Prix.
+Driver 55 not found in race results for Emilia Romagna Grand Prix.
+Driver 44 not found in race results for Emilia Romagna Grand Prix.
+Driver 63 not found in race results for Emilia Romagna Grand Prix.
+Driver 11 not found in race results for Emilia Romagna Grand Prix.
+Driver 18 not found in race results for Emilia Romagna Grand Prix.
+Driver 22 not found in race results for Emilia Romagna Grand Prix.
+Driver 27 not found in race results for Emilia Romagna Grand Prix.
+Driver 20 not found in race results for Emilia Romagna Grand Prix.
+Driver 3 not found in race results for Emilia Romagna Grand Prix.
+Driver 31 not found in race results for Emilia Romagna Grand Prix.
+Driver 24 not found in race results for Emilia Romagna Grand Prix.
+Driver 10 not found in race results for Emilia Romagna Grand Prix.
+Driver 2 not found in race results for Emilia Romagna Grand Prix.
+Driver 77 not found in race results for Emilia Romagna Grand Prix.
+Driver 14 not found in race results for Emilia Romagna Grand Prix.
+Driver 23 not found in race results for Emilia Romagna Grand Prix.
+Skipping 2024 round 7 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['16', '81', '55', '4', '63', '1', '44', '22', '23', '10', '14', '3', '77', '18', '2', '24', '31', '11', '27', '20']
+core           INFO 	Loading data for Monaco Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+core        WARNING 	Driver  3: Lap timing integrity check failed for 1 lap(s)
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['16', '81', '55', '4', '63', '1', '44', '22', '23', '10', '31', '27', '3', '18', '20', '14', '2', '11', '77', '24']
+core           INFO 	Loading data for Canadian Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 16 not found in race results for Monaco Grand Prix.
+Driver 81 not found in race results for Monaco Grand Prix.
+Driver 55 not found in race results for Monaco Grand Prix.
+Driver 4 not found in race results for Monaco Grand Prix.
+Driver 63 not found in race results for Monaco Grand Prix.
+Driver 1 not found in race results for Monaco Grand Prix.
+Driver 44 not found in race results for Monaco Grand Prix.
+Driver 22 not found in race results for Monaco Grand Prix.
+Driver 23 not found in race results for Monaco Grand Prix.
+Driver 10 not found in race results for Monaco Grand Prix.
+Driver 14 not found in race results for Monaco Grand Prix.
+Driver 3 not found in race results for Monaco Grand Prix.
+Driver 77 not found in race results for Monaco Grand Prix.
+Driver 18 not found in race results for Monaco Grand Prix.
+Driver 2 not found in race results for Monaco Grand Prix.
+Driver 24 not found in race results for Monaco Grand Prix.
+Driver 31 not found in race results for Monaco Grand Prix.
+Driver 11 not found in race results for Monaco Grand Prix.
+Driver 27 not found in race results for Monaco Grand Prix.
+Driver 20 not found in race results for Monaco Grand Prix.
+Skipping 2024 round 8 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '4', '63', '44', '81', '14', '18', '3', '10', '31', '27', '20', '77', '22', '24', '55', '23', '11', '16', '2']
+core           INFO 	Loading data for Canadian Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['63', '1', '4', '81', '3', '14', '44', '22', '18', '23', '16', '55', '2', '20', '10', '11', '77', '31', '27', '24']
+core           INFO 	Loading data for Spanish Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 1 not found in race results for Canadian Grand Prix.
+Driver 4 not found in race results for Canadian Grand Prix.
+Driver 63 not found in race results for Canadian Grand Prix.
+Driver 44 not found in race results for Canadian Grand Prix.
+Driver 81 not found in race results for Canadian Grand Prix.
+Driver 14 not found in race results for Canadian Grand Prix.
+Driver 18 not found in race results for Canadian Grand Prix.
+Driver 3 not found in race results for Canadian Grand Prix.
+Driver 10 not found in race results for Canadian Grand Prix.
+Driver 31 not found in race results for Canadian Grand Prix.
+Driver 27 not found in race results for Canadian Grand Prix.
+Driver 20 not found in race results for Canadian Grand Prix.
+Driver 77 not found in race results for Canadian Grand Prix.
+Driver 22 not found in race results for Canadian Grand Prix.
+Driver 24 not found in race results for Canadian Grand Prix.
+Driver 55 not found in race results for Canadian Grand Prix.
+Driver 23 not found in race results for Canadian Grand Prix.
+Driver 11 not found in race results for Canadian Grand Prix.
+Driver 16 not found in race results for Canadian Grand Prix.
+Driver 2 not found in race results for Canadian Grand Prix.
+Skipping 2024 round 9 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '4', '44', '63', '16', '55', '81', '11', '10', '31', '27', '14', '24', '18', '3', '77', '20', '23', '22', '2']
+core           INFO 	Loading data for Spanish Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['4', '1', '44', '63', '16', '55', '10', '11', '31', '81', '14', '77', '27', '18', '24', '20', '22', '3', '23', '2']
+core           INFO 	Loading data for Austrian Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 1 not found in race results for Spanish Grand Prix.
+Driver 4 not found in race results for Spanish Grand Prix.
+Driver 44 not found in race results for Spanish Grand Prix.
+Driver 63 not found in race results for Spanish Grand Prix.
+Driver 16 not found in race results for Spanish Grand Prix.
+Driver 55 not found in race results for Spanish Grand Prix.
+Driver 81 not found in race results for Spanish Grand Prix.
+Driver 11 not found in race results for Spanish Grand Prix.
+Driver 10 not found in race results for Spanish Grand Prix.
+Driver 31 not found in race results for Spanish Grand Prix.
+Driver 27 not found in race results for Spanish Grand Prix.
+Driver 14 not found in race results for Spanish Grand Prix.
+Driver 24 not found in race results for Spanish Grand Prix.
+Driver 18 not found in race results for Spanish Grand Prix.
+Driver 3 not found in race results for Spanish Grand Prix.
+Driver 77 not found in race results for Spanish Grand Prix.
+Driver 20 not found in race results for Spanish Grand Prix.
+Driver 23 not found in race results for Spanish Grand Prix.
+Driver 22 not found in race results for Spanish Grand Prix.
+Driver 2 not found in race results for Spanish Grand Prix.
+Skipping 2024 round 10 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['63', '81', '55', '44', '1', '27', '11', '20', '3', '10', '16', '31', '18', '22', '23', '77', '24', '14', '2', '4']
+core           INFO 	Loading data for Austrian Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '4', '63', '55', '44', '16', '81', '11', '27', '31', '3', '20', '10', '22', '14', '23', '18', '77', '2', '24']
+core           INFO 	Loading data for British Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 63 not found in race results for Austrian Grand Prix.
+Driver 81 not found in race results for Austrian Grand Prix.
+Driver 55 not found in race results for Austrian Grand Prix.
+Driver 44 not found in race results for Austrian Grand Prix.
+Driver 1 not found in race results for Austrian Grand Prix.
+Driver 27 not found in race results for Austrian Grand Prix.
+Driver 11 not found in race results for Austrian Grand Prix.
+Driver 20 not found in race results for Austrian Grand Prix.
+Driver 3 not found in race results for Austrian Grand Prix.
+Driver 10 not found in race results for Austrian Grand Prix.
+Driver 16 not found in race results for Austrian Grand Prix.
+Driver 31 not found in race results for Austrian Grand Prix.
+Driver 18 not found in race results for Austrian Grand Prix.
+Driver 22 not found in race results for Austrian Grand Prix.
+Driver 23 not found in race results for Austrian Grand Prix.
+Driver 77 not found in race results for Austrian Grand Prix.
+Driver 24 not found in race results for Austrian Grand Prix.
+Driver 14 not found in race results for Austrian Grand Prix.
+Driver 2 not found in race results for Austrian Grand Prix.
+Driver 4 not found in race results for Austrian Grand Prix.
+Skipping 2024 round 11 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['44', '1', '4', '81', '55', '27', '18', '14', '23', '22', '2', '20', '3', '16', '77', '31', '11', '24', '63', '10']
+core           INFO 	Loading data for British Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['63', '44', '4', '1', '81', '27', '55', '18', '23', '14', '16', '2', '22', '24', '3', '77', '20', '31', '11', '10']
+core           INFO 	Loading data for Hungarian Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 44 not found in race results for British Grand Prix.
+Driver 1 not found in race results for British Grand Prix.
+Driver 4 not found in race results for British Grand Prix.
+Driver 81 not found in race results for British Grand Prix.
+Driver 55 not found in race results for British Grand Prix.
+Driver 27 not found in race results for British Grand Prix.
+Driver 18 not found in race results for British Grand Prix.
+Driver 14 not found in race results for British Grand Prix.
+Driver 23 not found in race results for British Grand Prix.
+Driver 22 not found in race results for British Grand Prix.
+Driver 2 not found in race results for British Grand Prix.
+Driver 20 not found in race results for British Grand Prix.
+Driver 3 not found in race results for British Grand Prix.
+Driver 16 not found in race results for British Grand Prix.
+Driver 77 not found in race results for British Grand Prix.
+Driver 31 not found in race results for British Grand Prix.
+Driver 11 not found in race results for British Grand Prix.
+Driver 24 not found in race results for British Grand Prix.
+Driver 63 not found in race results for British Grand Prix.
+Driver 10 not found in race results for British Grand Prix.
+Skipping 2024 round 12 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['81', '4', '44', '16', '1', '55', '11', '63', '22', '18', '14', '3', '27', '23', '20', '77', '2', '31', '24', '10']
+core           INFO 	Loading data for Hungarian Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['4', '81', '1', '55', '44', '16', '14', '18', '3', '22', '27', '77', '23', '2', '20', '11', '63', '24', '31', '10']
+core           INFO 	Loading data for Belgian Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 81 not found in race results for Hungarian Grand Prix.
+Driver 4 not found in race results for Hungarian Grand Prix.
+Driver 44 not found in race results for Hungarian Grand Prix.
+Driver 16 not found in race results for Hungarian Grand Prix.
+Driver 1 not found in race results for Hungarian Grand Prix.
+Driver 55 not found in race results for Hungarian Grand Prix.
+Driver 11 not found in race results for Hungarian Grand Prix.
+Driver 63 not found in race results for Hungarian Grand Prix.
+Driver 22 not found in race results for Hungarian Grand Prix.
+Driver 18 not found in race results for Hungarian Grand Prix.
+Driver 14 not found in race results for Hungarian Grand Prix.
+Driver 3 not found in race results for Hungarian Grand Prix.
+Driver 27 not found in race results for Hungarian Grand Prix.
+Driver 23 not found in race results for Hungarian Grand Prix.
+Driver 20 not found in race results for Hungarian Grand Prix.
+Driver 77 not found in race results for Hungarian Grand Prix.
+Driver 2 not found in race results for Hungarian Grand Prix.
+Driver 31 not found in race results for Hungarian Grand Prix.
+Driver 24 not found in race results for Hungarian Grand Prix.
+Driver 10 not found in race results for Hungarian Grand Prix.
+Skipping 2024 round 13 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['44', '81', '16', '1', '4', '55', '11', '14', '31', '3', '18', '23', '10', '20', '77', '22', '2', '27', '24', '63']
+core           INFO 	Loading data for Belgian Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['1', '16', '11', '44', '4', '81', '63', '55', '14', '31', '23', '10', '3', '77', '18', '27', '20', '22', '2', '24']
+core           INFO 	Loading data for Dutch Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 44 not found in race results for Belgian Grand Prix.
+Driver 81 not found in race results for Belgian Grand Prix.
+Driver 16 not found in race results for Belgian Grand Prix.
+Driver 1 not found in race results for Belgian Grand Prix.
+Driver 4 not found in race results for Belgian Grand Prix.
+Driver 55 not found in race results for Belgian Grand Prix.
+Driver 11 not found in race results for Belgian Grand Prix.
+Driver 14 not found in race results for Belgian Grand Prix.
+Driver 31 not found in race results for Belgian Grand Prix.
+Driver 3 not found in race results for Belgian Grand Prix.
+Driver 18 not found in race results for Belgian Grand Prix.
+Driver 23 not found in race results for Belgian Grand Prix.
+Driver 10 not found in race results for Belgian Grand Prix.
+Driver 20 not found in race results for Belgian Grand Prix.
+Driver 77 not found in race results for Belgian Grand Prix.
+Driver 22 not found in race results for Belgian Grand Prix.
+Driver 2 not found in race results for Belgian Grand Prix.
+Driver 27 not found in race results for Belgian Grand Prix.
+Driver 24 not found in race results for Belgian Grand Prix.
+Driver 63 not found in race results for Belgian Grand Prix.
+Skipping 2024 round 14 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['4', '1', '16', '81', '55', '11', '63', '44', '10', '14', '27', '3', '18', '23', '31', '2', '22', '20', '77', '24']
+core           INFO 	Loading data for Dutch Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+core        WARNING 	No lap data for driver 2
+core        WARNING 	Failed to perform lap accuracy check - all laps marked as inaccurate (driver 2)
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['4', '1', '81', '63', '11', '16', '14', '18', '10', '55', '44', '22', '27', '20', '3', '31', '77', '24', '23', '2']
+core           INFO 	Loading data for Italian Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 4 not found in race results for Dutch Grand Prix.
+Driver 1 not found in race results for Dutch Grand Prix.
+Driver 16 not found in race results for Dutch Grand Prix.
+Driver 81 not found in race results for Dutch Grand Prix.
+Driver 55 not found in race results for Dutch Grand Prix.
+Driver 11 not found in race results for Dutch Grand Prix.
+Driver 63 not found in race results for Dutch Grand Prix.
+Driver 44 not found in race results for Dutch Grand Prix.
+Driver 10 not found in race results for Dutch Grand Prix.
+Driver 14 not found in race results for Dutch Grand Prix.
+Driver 27 not found in race results for Dutch Grand Prix.
+Driver 3 not found in race results for Dutch Grand Prix.
+Driver 18 not found in race results for Dutch Grand Prix.
+Driver 23 not found in race results for Dutch Grand Prix.
+Driver 31 not found in race results for Dutch Grand Prix.
+Driver 2 not found in race results for Dutch Grand Prix.
+Driver 22 not found in race results for Dutch Grand Prix.
+Driver 20 not found in race results for Dutch Grand Prix.
+Driver 77 not found in race results for Dutch Grand Prix.
+Driver 24 not found in race results for Dutch Grand Prix.
+Skipping 2024 round 15 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['16', '81', '4', '55', '44', '1', '63', '11', '23', '20', '14', '43', '3', '31', '10', '77', '27', '24', '18', '22']
+core           INFO 	Loading data for Italian Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['4', '81', '63', '16', '55', '44', '1', '11', '23', '27', '14', '3', '20', '10', '31', '22', '18', '43', '77', '24']
+core           INFO 	Loading data for Azerbaijan Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 16 not found in race results for Italian Grand Prix.
+Driver 81 not found in race results for Italian Grand Prix.
+Driver 4 not found in race results for Italian Grand Prix.
+Driver 55 not found in race results for Italian Grand Prix.
+Driver 44 not found in race results for Italian Grand Prix.
+Driver 1 not found in race results for Italian Grand Prix.
+Driver 63 not found in race results for Italian Grand Prix.
+Driver 11 not found in race results for Italian Grand Prix.
+Driver 23 not found in race results for Italian Grand Prix.
+Driver 20 not found in race results for Italian Grand Prix.
+Driver 14 not found in race results for Italian Grand Prix.
+Driver 43 not found in race results for Italian Grand Prix.
+Driver 3 not found in race results for Italian Grand Prix.
+Driver 31 not found in race results for Italian Grand Prix.
+Driver 10 not found in race results for Italian Grand Prix.
+Driver 77 not found in race results for Italian Grand Prix.
+Driver 27 not found in race results for Italian Grand Prix.
+Driver 24 not found in race results for Italian Grand Prix.
+Driver 18 not found in race results for Italian Grand Prix.
+Driver 22 not found in race results for Italian Grand Prix.
+Skipping 2024 round 16 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['81', '16', '63', '4', '1', '14', '23', '43', '44', '50', '27', '10', '3', '24', '31', '77', '11', '55', '18', '22']
+core           INFO 	Loading data for Azerbaijan Grand Prix - Qualifying [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['16', '81', '55', '11', '63', '1', '44', '14', '43', '23', '50', '22', '27', '18', '3', '4', '77', '24', '31', '10']
+core           INFO 	Loading data for Singapore Grand Prix - Race [v3.4.0]
+req            INFO 	Using cached data for session_info
+req            INFO 	Using cached data for driver_info
+req            INFO 	Using cached data for session_status_data
+req            INFO 	Using cached data for lap_count
+req            INFO 	Using cached data for track_status_data
+req            INFO 	Using cached data for _extended_timing_data
+req            INFO 	Using cached data for timing_app_data
+core           INFO 	Processing timing data...
+Driver 81 not found in race results for Azerbaijan Grand Prix.
+Driver 16 not found in race results for Azerbaijan Grand Prix.
+Driver 63 not found in race results for Azerbaijan Grand Prix.
+Driver 4 not found in race results for Azerbaijan Grand Prix.
+Driver 1 not found in race results for Azerbaijan Grand Prix.
+Driver 14 not found in race results for Azerbaijan Grand Prix.
+Driver 23 not found in race results for Azerbaijan Grand Prix.
+Driver 43 not found in race results for Azerbaijan Grand Prix.
+Driver 44 not found in race results for Azerbaijan Grand Prix.
+Driver 50 not found in race results for Azerbaijan Grand Prix.
+Driver 27 not found in race results for Azerbaijan Grand Prix.
+Driver 10 not found in race results for Azerbaijan Grand Prix.
+Driver 3 not found in race results for Azerbaijan Grand Prix.
+Driver 24 not found in race results for Azerbaijan Grand Prix.
+Driver 31 not found in race results for Azerbaijan Grand Prix.
+Driver 77 not found in race results for Azerbaijan Grand Prix.
+Driver 11 not found in race results for Azerbaijan Grand Prix.
+Driver 55 not found in race results for Azerbaijan Grand Prix.
+Driver 18 not found in race results for Azerbaijan Grand Prix.
+Driver 22 not found in race results for Azerbaijan Grand Prix.
+Skipping 2024 round 17 due to empty race data.
+req            INFO 	Using cached data for car_data
+req            INFO 	Using cached data for position_data
+req            INFO 	Using cached data for weather_data
+req            INFO 	Using cached data for race_control_messages
+core           INFO 	Finished loading data for 20 drivers: ['4', '1', '81', '63', '16', '44', '55', '14', '27', '11', '43', '22', '31', '18', '24', '77', '10', '3', '20', '23']
+core           INFO 	Loading data for Singapore Grand Prix - Qualifying [v3.4.0]
+req            INFO 	No cached data found for session_info. Loading data...
+_api           INFO 	Fetching session info data...
+req            INFO 	Data has been written to cache!
+req            INFO 	No cached data found for driver_info. Loading data...
+_api           INFO 	Fetching driver list...
+req            INFO 	Data has been written to cache!
+req            INFO 	No cached data found for session_status_data. Loading data...
+_api           INFO 	Fetching session status data...
+req            INFO 	Data has been written to cache!
+req            INFO 	No cached data found for track_status_data. Loading data...
+_api           INFO 	Fetching track status data...
+req            INFO 	Data has been written to cache!
+req            INFO 	No cached data found for _extended_timing_data. Loading data...
+_api           INFO 	Fetching timing data...
+_api           INFO 	Parsing timing data...
+req            INFO 	Data has been written to cache!
+req            INFO 	No cached data found for timing_app_data. Loading data...
+_api           INFO 	Fetching timing app data...
+req            INFO 	Data has been written to cache!
+core           INFO 	Processing timing data...
+req            INFO 	No cached data found for car_data. Loading data...
+_api           INFO 	Fetching car data...
+_api           INFO 	Parsing car data...
+req            INFO 	Data has been written to cache!
+req            INFO 	No cached data found for position_data. Loading data...
+_api           INFO 	Fetching position data...
+_api           INFO 	Parsing position data...
+req            INFO 	Data has been written to cache!
+req            INFO 	No cached data found for weather_data. Loading data...
+_api           INFO 	Fetching weather data...
+req            INFO 	Data has been written to cache!
+req            INFO 	No cached data found for race_control_messages. Loading data...
+_api           INFO 	Fetching race control messages...
+req            INFO 	Data has been written to cache!
+core           INFO 	Finished loading data for 20 drivers: ['4', '1', '44', '63', '81', '27', '14', '22', '16', '55', '23', '43', '11', '20', '31', '3', '18', '10', '77', '24']
+core           INFO 	Loading data for United States Grand Prix - Race [v3.4.0]
+req            INFO 	No cached data found for session_info. Loading data...
+_api           INFO 	Fetching session info data...
+Driver 4 not found in race results for Singapore Grand Prix.
+Driver 1 not found in race results for Singapore Grand Prix.
+Driver 81 not found in race results for Singapore Grand Prix.
+Driver 63 not found in race results for Singapore Grand Prix.
+Driver 16 not found in race results for Singapore Grand Prix.
+Driver 44 not found in race results for Singapore Grand Prix.
+Driver 55 not found in race results for Singapore Grand Prix.
+Driver 14 not found in race results for Singapore Grand Prix.
+Driver 27 not found in race results for Singapore Grand Prix.
+Driver 11 not found in race results for Singapore Grand Prix.
+Driver 43 not found in race results for Singapore Grand Prix.
+Driver 22 not found in race results for Singapore Grand Prix.
+Driver 31 not found in race results for Singapore Grand Prix.
+Driver 18 not found in race results for Singapore Grand Prix.
+Driver 24 not found in race results for Singapore Grand Prix.
+Driver 77 not found in race results for Singapore Grand Prix.
+Driver 10 not found in race results for Singapore Grand Prix.
+Driver 3 not found in race results for Singapore Grand Prix.
+Driver 20 not found in race results for Singapore Grand Prix.
+Driver 23 not found in race results for Singapore Grand Prix.
+Skipping 2024 round 18 due to empty race data.
+logger      WARNING 	Failed to load session info data!
+req            INFO 	No cached data found for driver_info. Loading data...
+_api           INFO 	Fetching driver list...
+core        WARNING 	Failed to load extended driver information!
+core        WARNING 	No result data for this session available on Ergast! (This is expected for recent sessions)
+core        WARNING 	Failed to load driver list and session results!
+req            INFO 	No cached data found for session_status_data. Loading data...
+_api           INFO 	Fetching session status data...
+logger      WARNING 	Failed to load session status data!
+req            INFO 	No cached data found for lap_count. Loading data...
+_api           INFO 	Fetching lap count data...
+logger      WARNING 	Failed to load total lap count!
+req            INFO 	No cached data found for track_status_data. Loading data...
+_api           INFO 	Fetching track status data...
+logger      WARNING 	Failed to load track status data!
+req            INFO 	No cached data found for _extended_timing_data. Loading data...
+_api           INFO 	Fetching timing data...
+logger      WARNING 	Failed to load timing data!
+core        WARNING 	Cannot load lap times for first lap from Ergast. Timing data is not available for this session.
+req            INFO 	No cached data found for car_data. Loading data...
+_api           INFO 	Fetching car data...
+core        WARNING 	Car telemetry data is unavailable!
+req            INFO 	No cached data found for position_data. Loading data...
+_api           INFO 	Fetching position data...
+core        WARNING 	Car position data is unavailable!
+core        WARNING 	Failed to determine `Session.t0_date`!
+req            INFO 	No cached data found for weather_data. Loading data...
+_api           INFO 	Fetching weather data...
+logger      WARNING 	Failed to load weather data!
+req            INFO 	No cached data found for race_control_messages. Loading data...
+_api           INFO 	Fetching race control messages...
+logger      WARNING 	Failed to load race control messages!
+core           INFO 	Finished loading data for 0 drivers: []
+core           INFO 	Loading data for Mexico City Grand Prix - Race [v3.4.0]
+req            INFO 	No cached data found for session_info. Loading data...
+_api           INFO 	Fetching session info data...
+Error with race 2024 round 19: module 'fastf1' has no attribute 'errors'
+logger      WARNING 	Failed to load session info data!
+req            INFO 	No cached data found for driver_info. Loading data...
+_api           INFO 	Fetching driver list...
+core        WARNING 	Failed to load extended driver information!
+core        WARNING 	No result data for this session available on Ergast! (This is expected for recent sessions)
+core        WARNING 	Failed to load driver list and session results!
+req            INFO 	No cached data found for session_status_data. Loading data...
+_api           INFO 	Fetching session status data...
+logger      WARNING 	Failed to load session status data!
+req            INFO 	No cached data found for lap_count. Loading data...
+_api           INFO 	Fetching lap count data...
+logger      WARNING 	Failed to load total lap count!
+req            INFO 	No cached data found for track_status_data. Loading data...
+_api           INFO 	Fetching track status data...
+logger      WARNING 	Failed to load track status data!
+req            INFO 	No cached data found for _extended_timing_data. Loading data...
+_api           INFO 	Fetching timing data...
+logger      WARNING 	Failed to load timing data!
+core        WARNING 	Cannot load lap times for first lap from Ergast. Timing data is not available for this session.
+req            INFO 	No cached data found for car_data. Loading data...
+_api           INFO 	Fetching car data...
+core        WARNING 	Car telemetry data is unavailable!
+req            INFO 	No cached data found for position_data. Loading data...
+_api           INFO 	Fetching position data...
+core        WARNING 	Car position data is unavailable!
+core        WARNING 	Failed to determine `Session.t0_date`!
+req            INFO 	No cached data found for weather_data. Loading data...
+_api           INFO 	Fetching weather data...
+logger      WARNING 	Failed to load weather data!
+req            INFO 	No cached data found for race_control_messages. Loading data...
+_api           INFO 	Fetching race control messages...
+logger      WARNING 	Failed to load race control messages!
+core           INFO 	Finished loading data for 0 drivers: []
+core           INFO 	Loading data for São Paulo Grand Prix - Race [v3.4.0]
+req            INFO 	No cached data found for session_info. Loading data...
+_api           INFO 	Fetching session info data...
+Error with race 2024 round 20: module 'fastf1' has no attribute 'errors'
+logger      WARNING 	Failed to load session info data!
+req            INFO 	No cached data found for driver_info. Loading data...
+_api           INFO 	Fetching driver list...
+core        WARNING 	Failed to load extended driver information!
+core        WARNING 	No result data for this session available on Ergast! (This is expected for recent sessions)
+core        WARNING 	Failed to load driver list and session results!
+req            INFO 	No cached data found for session_status_data. Loading data...
+_api           INFO 	Fetching session status data...
+logger      WARNING 	Failed to load session status data!
+req            INFO 	No cached data found for lap_count. Loading data...
+_api           INFO 	Fetching lap count data...
+logger      WARNING 	Failed to load total lap count!
+req            INFO 	No cached data found for track_status_data. Loading data...
+_api           INFO 	Fetching track status data...
+logger      WARNING 	Failed to load track status data!
+req            INFO 	No cached data found for _extended_timing_data. Loading data...
+_api           INFO 	Fetching timing data...
+logger      WARNING 	Failed to load timing data!
+core        WARNING 	Cannot load lap times for first lap from Ergast. Timing data is not available for this session.
+req            INFO 	No cached data found for car_data. Loading data...
+_api           INFO 	Fetching car data...
+core        WARNING 	Car telemetry data is unavailable!
+req            INFO 	No cached data found for position_data. Loading data...
+_api           INFO 	Fetching position data...
+core        WARNING 	Car position data is unavailable!
+core        WARNING 	Failed to determine `Session.t0_date`!
+req            INFO 	No cached data found for weather_data. Loading data...
+_api           INFO 	Fetching weather data...
+logger      WARNING 	Failed to load weather data!
+req            INFO 	No cached data found for race_control_messages. Loading data...
+_api           INFO 	Fetching race control messages...
+logger      WARNING 	Failed to load race control messages!
+core           INFO 	Finished loading data for 0 drivers: []
+core           INFO 	Loading data for Las Vegas Grand Prix - Race [v3.4.0]
+req            INFO 	No cached data found for session_info. Loading data...
+_api           INFO 	Fetching session info data...
+Error with race 2024 round 21: module 'fastf1' has no attribute 'errors'
+logger      WARNING 	Failed to load session info data!
+req            INFO 	No cached data found for driver_info. Loading data...
+_api           INFO 	Fetching driver list...
+core        WARNING 	Failed to load extended driver information!
+core        WARNING 	No result data for this session available on Ergast! (This is expected for recent sessions)
+core        WARNING 	Failed to load driver list and session results!
+req            INFO 	No cached data found for session_status_data. Loading data...
+_api           INFO 	Fetching session status data...
+logger      WARNING 	Failed to load session status data!
+req            INFO 	No cached data found for lap_count. Loading data...
+_api           INFO 	Fetching lap count data...
+logger      WARNING 	Failed to load total lap count!
+req            INFO 	No cached data found for track_status_data. Loading data...
+_api           INFO 	Fetching track status data...
+logger      WARNING 	Failed to load track status data!
+req            INFO 	No cached data found for _extended_timing_data. Loading data...
+_api           INFO 	Fetching timing data...
+logger      WARNING 	Failed to load timing data!
+core        WARNING 	Cannot load lap times for first lap from Ergast. Timing data is not available for this session.
+req            INFO 	No cached data found for car_data. Loading data...
+_api           INFO 	Fetching car data...
+core        WARNING 	Car telemetry data is unavailable!
+req            INFO 	No cached data found for position_data. Loading data...
+_api           INFO 	Fetching position data...
+core        WARNING 	Car position data is unavailable!
+core        WARNING 	Failed to determine `Session.t0_date`!
+req            INFO 	No cached data found for weather_data. Loading data...
+_api           INFO 	Fetching weather data...
+logger      WARNING 	Failed to load weather data!
+req            INFO 	No cached data found for race_control_messages. Loading data...
+_api           INFO 	Fetching race control messages...
+logger      WARNING 	Failed to load race control messages!
+core           INFO 	Finished loading data for 0 drivers: []
+core           INFO 	Loading data for Qatar Grand Prix - Race [v3.4.0]
+req            INFO 	No cached data found for session_info. Loading data...
+_api           INFO 	Fetching session info data...
+Error with race 2024 round 22: module 'fastf1' has no attribute 'errors'
+logger      WARNING 	Failed to load session info data!
+req            INFO 	No cached data found for driver_info. Loading data...
+_api           INFO 	Fetching driver list...
+core        WARNING 	Failed to load extended driver information!
+core        WARNING 	No result data for this session available on Ergast! (This is expected for recent sessions)
+core        WARNING 	Failed to load driver list and session results!
+req            INFO 	No cached data found for session_status_data. Loading data...
+_api           INFO 	Fetching session status data...
+logger      WARNING 	Failed to load session status data!
+req            INFO 	No cached data found for lap_count. Loading data...
+_api           INFO 	Fetching lap count data...
+logger      WARNING 	Failed to load total lap count!
+req            INFO 	No cached data found for track_status_data. Loading data...
+_api           INFO 	Fetching track status data...
+logger      WARNING 	Failed to load track status data!
+req            INFO 	No cached data found for _extended_timing_data. Loading data...
+_api           INFO 	Fetching timing data...
+logger      WARNING 	Failed to load timing data!
+core        WARNING 	Cannot load lap times for first lap from Ergast. Timing data is not available for this session.
+req            INFO 	No cached data found for car_data. Loading data...
+_api           INFO 	Fetching car data...
+core        WARNING 	Car telemetry data is unavailable!
+req            INFO 	No cached data found for position_data. Loading data...
+_api           INFO 	Fetching position data...
+core        WARNING 	Car position data is unavailable!
+core        WARNING 	Failed to determine `Session.t0_date`!
+req            INFO 	No cached data found for weather_data. Loading data...
+_api           INFO 	Fetching weather data...
+logger      WARNING 	Failed to load weather data!
+req            INFO 	No cached data found for race_control_messages. Loading data...
+_api           INFO 	Fetching race control messages...
+logger      WARNING 	Failed to load race control messages!
+core           INFO 	Finished loading data for 0 drivers: []
+core           INFO 	Loading data for Abu Dhabi Grand Prix - Race [v3.4.0]
+req            INFO 	No cached data found for session_info. Loading data...
+_api           INFO 	Fetching session info data...
+Error with race 2024 round 23: module 'fastf1' has no attribute 'errors'
+logger      WARNING 	Failed to load session info data!
+req            INFO 	No cached data found for driver_info. Loading data...
+_api           INFO 	Fetching driver list...
+core        WARNING 	Failed to load extended driver information!
+core        WARNING 	No result data for this session available on Ergast! (This is expected for recent sessions)
+core        WARNING 	Failed to load driver list and session results!
+req            INFO 	No cached data found for session_status_data. Loading data...
+_api           INFO 	Fetching session status data...
+logger      WARNING 	Failed to load session status data!
+req            INFO 	No cached data found for lap_count. Loading data...
+_api           INFO 	Fetching lap count data...
+logger      WARNING 	Failed to load total lap count!
+req            INFO 	No cached data found for track_status_data. Loading data...
+_api           INFO 	Fetching track status data...
+logger      WARNING 	Failed to load track status data!
+req            INFO 	No cached data found for _extended_timing_data. Loading data...
+_api           INFO 	Fetching timing data...
+logger      WARNING 	Failed to load timing data!
+core        WARNING 	Cannot load lap times for first lap from Ergast. Timing data is not available for this session.
+req            INFO 	No cached data found for car_data. Loading data...
+_api           INFO 	Fetching car data...
+core        WARNING 	Car telemetry data is unavailable!
+req            INFO 	No cached data found for position_data. Loading data...
+_api           INFO 	Fetching position data...
+core        WARNING 	Car position data is unavailable!
+core        WARNING 	Failed to determine `Session.t0_date`!
+req            INFO 	No cached data found for weather_data. Loading data...
+_api           INFO 	Fetching weather data...
+logger      WARNING 	Failed to load weather data!
+req            INFO 	No cached data found for race_control_messages. Loading data...
+_api           INFO 	Fetching race control messages...
+logger      WARNING 	Failed to load race control messages!
+core           INFO 	Finished loading data for 0 drivers: []
+Error with race 2024 round 24: module 'fastf1' has no attribute 'errors'
